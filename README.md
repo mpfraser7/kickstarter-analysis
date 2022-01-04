@@ -4,7 +4,8 @@
 
 ### Purpose
 
-	This project illustrates how different campaigns fared in relation to their launch dates and their funding goals. The purpose is to show Louise some comparables to her play *Fever*.
+	This project illustrates how different campaigns fared in relation to their launch dates and their funding goals. 
+	The purpose is to show Louise some comparables to her play *Fever*.
 
 ## Analysis and Challenges
 
