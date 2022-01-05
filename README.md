@@ -10,7 +10,7 @@
 
 ### Analysis of Outcomes Based on Launch Date
 	
-	![](https://github.com/mpfraser7/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+	![](https://github.com/mpfraser7/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png?raw=true)
 	(https://github.com/mpfraser7/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
 
 	To analyze the outcomes based on launch date, I prepared a line chart. This visual illustrates the count of campaigns by month and outcome. Each line represent a different outcome. The results only show campaigns within
