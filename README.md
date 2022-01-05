@@ -11,14 +11,15 @@
 ### Analysis of Outcomes Based on Launch Date
 	
 ![](https://raw.githubusercontent.com/mpfraser7/kickstarter-analysis/main/Outcomes_vs_Goals.png)
-(https://github.com/mpfraser7/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png) 
+https://github.com/mpfraser7/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
 	To analyze the outcomes based on launch date, I prepared a line chart. This visual illustrates the count of campaigns by month and outcome. Each line represent a different outcome. The results only show campaigns within
 	the Theatre parent category.
 
 ### Analysis of Outcomes Based on Goals
 
-	(https://github.com/mpfraser7/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
+![](https://raw.githubusercontent.com/mpfraser7/kickstarter-analysis/main/Theater_Outcomes_vs_Launch.png)
+https://github.com/mpfraser7/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
 
 	To analyze the outcomes based on goals, I prepared a line chart. The line chart shows the percentage of successful, failed, and canceled campaigns for goals at every
 	5,000 increment. The results only show campaigns within the Plays subcategory.
