@@ -4,7 +4,8 @@
 
 ### Purpose
 
-	This project illustrates how different campaigns fared in relation to their launch dates and their funding goals. The purpose is to show Louise some comparables to her play *Fever*.
+	This project illustrates how different campaigns fared in relation to their launch dates and their funding goals. 
+	The purpose is to show Louise some comparables to her play *Fever*.
 
 ## Analysis and Challenges
 
@@ -13,7 +14,7 @@
 ![](https://raw.githubusercontent.com/mpfraser7/kickstarter-analysis/main/Outcomes_vs_Goals.png)
 https://github.com/mpfraser7/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png
 
-	To analyze the outcomes based on launch date, I prepared a line chart. This visual illustrates the count of campaigns by month and outcome. Each line represent a different outcome. The results only show campaigns within
+	To analyze the outcomes based on launch date, I prepared a line chart. This visual illustrates the count of campaigns by month and outcome. Each line represent a  different outcome. The results only show campaigns within
 	the Theatre parent category.
 
 ### Analysis of Outcomes Based on Goals
@@ -21,12 +22,13 @@ https://github.com/mpfraser7/kickstarter-analysis/blob/main/Theater_Outcomes_vs_
 ![](https://raw.githubusercontent.com/mpfraser7/kickstarter-analysis/main/Theater_Outcomes_vs_Launch.png)
 https://github.com/mpfraser7/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png
 
-	To analyze the outcomes based on goals, I prepared a line chart. The line chart shows the percentage of successful, failed, and canceled campaigns for goals at every
+	To analyze the outcomes based on goals, I prepared a line chart. The line chart shows the percentage of successful, failed,   
+	and canceled campaigns for goals at every
 	5,000 increment. The results only show campaigns within the Plays subcategory.
 
 ### Challenges and Difficulties Encountered
 
-	One of the challenge encountered during the analysis was to ensure the amount of campaigns in both visual were representative of the amount of campaigns in the main database, based on the filters applied.
+	One of the challenge encountered during the analysis was to ensure the amount of campaigns in both visual were representative of the amount of campaigns in the main database, based on the filters applied.  
 	To overcome the challenge, I applied manual filters on the main database to cross reference the amount of campaigns, and to ensure data integrity.
 
 ## Results
